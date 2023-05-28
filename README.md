@@ -47,8 +47,11 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+![Screenshot (62)](https://github.com/MohammedFaizal05/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/120553195/92a102ef-8aba-45b5-89b2-c696eb745dbe)
+
+### Name: Mohammed Faizal.J
+
+### Register Number: 212222100027
 
 ## RESULT:
 ###   Thus a prototype of the given part model is developed using 3D Printer.
